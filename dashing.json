@@ -1,0 +1,12 @@
+{
+  "name"      : "MODX.pro",
+  "package"   : "modxpro",
+  "index"     : "src/index.html",
+  "selectors" : {
+    "dt a"  : "Command",
+    "title" : "Package"
+  },
+  "ignore"    : [],
+  "icon32x32" : "src/icon.png",
+  "allowJS"   : false
+}

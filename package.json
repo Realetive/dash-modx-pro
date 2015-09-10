@@ -1,0 +1,24 @@
+{
+  "name": "dash-modx-pro",
+  "version": "0.0.1",
+  "description": "Generator of MODX documentation from modx.pro for Dash",
+  "keywords": ["MODX", "Dash"],
+  "license": "GPL-2.0",
+  "private": true,
+  "homepage": "https://github.com/Realetive/dash-modx-pro",
+  "author": {
+    "name": "Roman aka Realetive Ganin",
+    "email": "realetive@gmail.com",
+    "url": "https://github.com/Realetive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Realetive/dash-modx-pro-ru.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Realetive/dash-modx-pro/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  }
+}
